@@ -1,0 +1,4 @@
+baseURL = 'https://DANNYPRIDE.github.io/'
+languageCode = 'ko-kr'
+title = 'Danny Choi'
+theme = 'paper'
